@@ -49,6 +49,7 @@ function main() {
 ~~~md
 ```go
 import "fmt"
+
 function main() {
    ft.Println("Hello, World!")
 ```
