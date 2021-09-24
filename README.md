@@ -54,12 +54,13 @@ function main() {
 ```
 ~~~
 
-~~~md
+```md
 ~~~md
 **bold**, _italic_
 `code`, ~strike~
 em***bold***en
 ~~~
+```
 
 ## Reminder
 
