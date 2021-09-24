@@ -6,7 +6,7 @@ Your mission, if you choose to accept it is to recreate _this_ document, _exatly
 **Hint:** Read this _whole_ thing first. Then recreate it **one** line at a time. \
 Also, everything you need is at https://bit.ly/beyondcode-markdown.
 
-##Who supports `Markdown`?
+## Who supports `Markdown`?
 ***
 
 _Ranked_ from **best** to ~~worst:~~ \
@@ -26,7 +26,7 @@ _Ranked_ from **best** to ~~worst:~~ \
   * Slack
   * Facebook Messenger
 
-##Escape Test
+## Escape Test
 ***
 
 > It's easier to ask forgiveness \
