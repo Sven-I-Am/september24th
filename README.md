@@ -4,7 +4,7 @@
 
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
 
-Your mission, if you choose to accept it is to recreate _this_ document, _exatly_,using only Markdown and [gist.github.com]()
+Your mission, if you choose to accept it is to recreate _this_ document, _exatly_,using only Markdown and [gist.github.com](https://gist.github.com/)
 
 **Hint:** Read this _whole_ thing first. Then recreate it **one** line at a time.
 
