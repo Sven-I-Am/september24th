@@ -11,7 +11,7 @@ Also, everything you need is at https://bit.ly/beyondcode-markdown.
 _Ranked_ from **best** to ~~worst:~~ \
 
 | **Site/App** | **Logo** |
-| :--- | :---- |
+| :--- | :--- |
 | Github | ![](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/2a7ef5b4-9a66-11e6-ada3-00163ed833e7/4242369951/github-github-logo.png) |
 | StackOverflow | ![](https://cdn.iconscout.com/icon/free/png-128/stackoverflow-286085.png) |
 | Discord | ![](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/db78765c-6e9a-4355-95d6-8b68b09d004c/2051679261/discord-icon.png) |
@@ -33,3 +33,7 @@ _Ranked_ from **best** to ~~worst:~~ \
 > than it is to get permission \
 > \- Grace Hopper
 
+| **Markdown** | **Render** |
+| :----: | :--- |
+| \*\*bold\*\*, \_italic\_ | **bold**, _italic_ |
+| \`code\`, \~strike\~ | `code`, ~strike~ |
