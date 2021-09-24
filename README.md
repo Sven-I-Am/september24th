@@ -8,7 +8,7 @@ Also, everything you need is at https://bit.ly/beyondcode-markdown.
 
 ## Who supports `Markdown`?
 
-_Ranked_ from **best** to ~~worst:~~ \
+_Ranked_ from **best** to ~worst:~ \
 
 | **Site/App** | **Logo** |
 | :--- | :--- |
@@ -37,3 +37,50 @@ _Ranked_ from **best** to ~~worst:~~ \
 | :----: | :--- |
 | \*\*bold\*\*, \_italic\_ | **bold**, _italic_ |
 | \`code\`, \~strike\~ | `code`, ~strike~ |
+|em\*\*\*bold\*\*\*en |em***bold***en |
+
+```javascript
+import "fmt"
+function main() {
+   ft.Println("Hello, World!")
+}
+```
+
+~~~md
+```go
+import "fmt"
+function main() {
+   ft.Println("Hello, World!")
+```
+~~~
+
+~~~md
+~~~md
+**bold**, _italic_
+`code`, ~strike~
+em***bold***en
+~~~
+
+## Reminder
+
+- [x] Get logos
+- [ ] Check spacing, styles, syntax, etc
+
+# Resources
+
+### Images
+
+#### Google Images (h4)
+
+##### PNG Logos (h5)
+
+###### With `imagesize` (h6)
+
+Use _Google Images_ to find the images used here:
+
+* markdown logo png imagesize:500x308
+* github logo png imagesize:64x64
+* discord logo png imagesize:64x64
+* stackoverflow logo png imagesize:128x128
+* facebook logo png imagesize:64x64
+* slack logo png imagesize:64x64
